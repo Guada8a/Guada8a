@@ -14,7 +14,7 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/tuusuario)](https://github.com/tuusuario)
 [![AJAX](https://img.shields.io/badge/-AJAX-black?style=flat&link=https://github.com/tuusuario)](https://github.com/tuusuario)
 
-### Key Skills
+### Skills
 
 - Front-end development with jQuery, JavaScript, React, and React Native
 - Back-end development with NodeJS
