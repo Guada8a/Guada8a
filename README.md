@@ -5,6 +5,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Guada8a)](https://github.com/Guada8a)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Guada8a)](https://github.com/Guada8a)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Guada8a)](https://github.com/Guada8a)
+[![EJS](https://img.shields.io/badge/EJS-E34F24?style=flat&logo=ejs&logoColor=white&link=https://ejs.co/)](https://ejs.co/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Guada8a)](https://github.com/Guada8a)
 [![Bootswatch](https://img.shields.io/badge/Bootswatch-563D7C?style=flat&logo=bootstrap&logoColor=white&link=https://bootswatch.com/)](https://bootswatch.com/)
 [![React](https://img.shields.io/badge/-React-white?style=flat&logo=react&link=https://github.com/Guada8a)](https://github.com/Guada8a)
