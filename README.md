@@ -7,7 +7,7 @@
 <div align="center">
 <h2 align="center">💻 Technologies & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,tailwind,mysql,mongodb,arduino,figma,godot,docker,git,photoshop,electron,astro,materialui,nginx,nodejs,jquery,vuejs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,tailwind,mysql,mongodb,arduino,figma,docker,git,electron,astro,materialui,nodejs,jquery,nest,vuejs&perline=10" />
   </a>
 </div>
 
